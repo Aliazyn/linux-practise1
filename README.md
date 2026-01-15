@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  HEAD
 # My Cloud Journey Day1 
 
@@ -5,3 +6,6 @@
 "Update: I learned how to recover my work using 'git clone'. Even if the server is destroyed, my work is safe in the cloud"
 # My Cloud Journey Day 2
  "Day 2: I learn how to edit text in github by using nano README.md"
+=======
+#My Cloud Journey Day 3
+>>>>>>> 8cd4a44 (First commit)
